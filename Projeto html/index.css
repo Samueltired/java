@@ -1,0 +1,14 @@
+body {
+ background-color: aqua;
+ color:rgb(71, 66, 66)
+
+}
+ul{
+
+display: flex;
+justify-content: space-between;
+list-style:none;
+align-items: center;
+
+
+}
